@@ -1,9 +1,4 @@
-Here is a `README.md` file based on the provided screenshots, updated to use `pnpm` instead of `npm`:
-
----
-
-````markdown
-# 🧩 FORMCRAFT
+# ✳️ FORMCRAFT
 
 _Empower Your Ideas with Effortless Form Creation_
 
@@ -11,10 +6,15 @@ _Empower Your Ideas with Effortless Form Creation_
 ![typescript](https://img.shields.io/badge/typescript-98.3%25-blue)
 ![languages](https://img.shields.io/badge/languages-3-blue)
 
-## 🚀 Built with the tools and technologies:
+🔗 **Live Demo**: [form-craft-livid.vercel.app](https://form-craft-livid.vercel.app/)  
+📺 **Preview Video**: [YouTube Preview](https://youtu.be/v5JSTp-2ulQ)
+
+---
+
+## 🚀 Built with the tools and technologies
 
 ![JSON](https://img.shields.io/badge/-JSON-black)
-![npm](https://img.shields.io/badge/-npm-red)
+![pnpm](https://img.shields.io/badge/-pnpm-orange)
 ![Autoprefixer](https://img.shields.io/badge/-Autoprefixer-red)
 ![PostCSS](https://img.shields.io/badge/-PostCSS-orange)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
@@ -31,12 +31,16 @@ _Empower Your Ideas with Effortless Form Creation_
 
 ## 📑 Table of Contents
 
-- [Overview](#overview)
-- [Getting Started](#getting-started)
+- [Overview](#-overview)
+- [Live Demo](#-live-demo)
+- [Getting Started](#-getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Testing](#testing)
+- [Tech Stack](#-built-with-the-tools-and-technologies)
+- [Preview](#-preview-video)
+- [License](#-license)
 
 ---
 
@@ -46,73 +50,39 @@ _Empower Your Ideas with Effortless Form Creation_
 
 ### Why FormCraft?
 
-This project simplifies the form creation process while enhancing user experience. The core features include:
-
-- 🧠 **Drag-and-Drop Builder**: Easily design forms visually without extensive coding.
-- 🪜 **Multi-Step Forms**: Break down complex forms into manageable steps for better user engagement.
-- 🗃️ **Template Management**: Save and reuse form templates to boost efficiency and consistency.
-- ⏱️ **Real-Time Preview**: See how forms appear on different devices, ensuring responsive design.
-- 🎨 **Customizable Themes**: Tailor the appearance of forms to match your application's branding.
-- 🔐 **Supabase Integration**: Streamline data management and authentication for a seamless backend experience.
+- 🧠 **Drag-and-Drop Builder** – Design forms visually without needing to write code.
+- 🪜 **Multi-Step Forms** – Break complex forms into easy, guided steps.
+- 🎨 **Custom Styling** – Tailor the look and feel with flexible styles.
+- 📤 **Form Submission & Validation** – Built-in logic to manage and validate user inputs.
 
 ---
 
-## 🚀 Getting Started
+## 🌐 Live Demo
+
+👉 [https://form-craft-livid.vercel.app/](https://form-craft-livid.vercel.app/)
+
+---
+
+## ▶️ Preview Video
+
+📺 [Watch on YouTube](https://youtu.be/v5JSTp-2ulQ)
+
+---
+
+## 🛠 Getting Started
 
 ### Prerequisites
 
-Make sure you have the following installed:
+- Node.js
+- pnpm
 
-- **Programming Language**: TypeScript
-- **Package Manager**: [pnpm](https://pnpm.io/)
-
----
-
-### 🛠️ Installation
-
-Build FormCraft from the source and install dependencies:
+### Installation
 
 ```bash
-# Clone the repository
-git clone https://github.com/gourab8607/FormCraft
+git clone https://github.com/your-username/formcraft.git
 
-# Navigate to the project directory
-cd FormCraft
-
-# Install the dependencies
 pnpm install
-````
 
----
-
-### ⚙️ Usage
-
-To run the project in development mode:
-
-```bash
-pnpm dev
-```
-
-To build the project:
-
-```bash
 pnpm run build
-```
 
----
-
-### ✅ Testing
-
-FormCraft uses a test framework. Run the test suite with:
-
-```bash
-pnpm test
-```
-
----
-
-Feel free to contribute, open issues, or fork the project. Let’s build better forms, together.
-
-```
-
-
+pnpm dev
