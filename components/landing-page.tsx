@@ -858,7 +858,7 @@ export function LandingPage() {
                 animate={{ opacity: 1 }}
                 transition={{ delay: 0.5 }}
               >
-                <Globe className="w-4 h-4 mr-2" />© 2024 FormCraft. Made with magic.
+                <Globe className="w-4 h-4 mr-2" />© Gourab Choudhury
               </motion.div>
             </div>
           </div>
