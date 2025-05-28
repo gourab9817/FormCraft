@@ -55,9 +55,12 @@ FormCraft is an intuitive form-building tool designed to empower developers with
 ### Prerequisites
 - Node.js
 - pnpm
+
 ### Installation
 ```bash
 git clone https://github.com/your-username/formcraft.git
 pnpm install
+
 pnpm run build
+
 pnpm dev
