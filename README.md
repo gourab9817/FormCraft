@@ -59,9 +59,7 @@ _Empower Your Ideas with Effortless Form Creation_
 
 ## 🌐 Live Demo
 
-👉 [https://form-craft-livid.vercel.app/](https://form-craft-livid.vercel.app/)
-
----
+🔗 [Visit the App](https://form-craft-livid.vercel.app/)
 
 ## ▶️ Preview Video
 
