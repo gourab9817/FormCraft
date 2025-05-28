@@ -65,7 +65,14 @@ _Empower Your Ideas with Effortless Form Creation_
 
 ## ▶️ Preview Video
 
-📺 [Watch on YouTube](https://youtu.be/v5JSTp-2ulQ)
+<p align="center">
+  <a href="https://youtu.be/v5JSTp-2ulQ" target="_blank">
+    <img src="https://img.youtube.com/vi/v5JSTp-2ulQ/0.jpg" alt="Watch on YouTube" width="70%">
+  </a>
+</p>
+
+> 🔗 [Watch on YouTube](https://youtu.be/v5JSTp-2ulQ)
+
 
 ---
 
