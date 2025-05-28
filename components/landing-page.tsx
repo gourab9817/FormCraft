@@ -709,16 +709,16 @@ export function LandingPage() {
                   }`}
                 >
                   <div className="w-full h-full flex items-center justify-center">
-                    <motion.div
-                      whileHover={{ scale: 1.1 }}
-                      whileTap={{ scale: 0.9 }}
-                      className="relative group cursor-pointer"
-                    >
-                      <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-purple-600 rounded-full blur-2xl opacity-50 group-hover:opacity-100 transition-opacity" />
-                      <div className="relative w-16 md:w-24 h-16 md:h-24 bg-gradient-to-r from-blue-500 to-purple-600 rounded-full flex items-center justify-center shadow-2xl">
-                        <Play className="w-8 md:w-12 h-8 md:h-12 text-white ml-1" />
-                      </div>
-                    </motion.div>
+                    <iframe
+                      width="100%"
+                      height="100%"
+                      src="https://www.youtube.com/embed/v5JSTp-2ulQ?autoplay=1&mute=1&rel=0&showinfo=0&controls=1"
+                      title="Demo Video"
+                      allow="autoplay; encrypted-media"
+                      allowFullScreen
+                      className="w-full h-full rounded-3xl"
+                      style={{ aspectRatio: '16/9', border: 'none' }}
+                    />
                   </div>
                 </div>
 
